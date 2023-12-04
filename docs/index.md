@@ -3,18 +3,21 @@
 layout: home
 
 hero:
-  name: "Artist Diploma in Music"
-  text: "Handbook"
-  tagline: My great project tagline
+  name: Artist Diploma in Music
+  // text: "Programme Handbook September 2023"
+  tagline: "Programme Handbook September 2023"
+  image:
+    src: /rcs_logo.png
+    alt: RCS logo
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Handbook
+      link: /handbook/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Modules
+      link: /modules/
 
-features:
+//features:
   - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature B
